@@ -3,26 +3,27 @@
 <a href="https://www.linkedin.cn/incareer/in/ACoAAD7DeTEBq3nFfTfDK9v-iY1ep4FqA4TmSGc">
   <img align="left" alt="Mingyang Wu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+
+<!-- <a href="">
   <img align="left" alt="Mingyang Wu's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/googlescholar.svg" />
-</a>
-<a href="https://leetcode.com/">
+</a> -->
+<!-- <a href="https://leetcode.com/">
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://twitter.com/">
+</a> -->
+<!-- <a href="https://twitter.com/">
   <img align="left" alt="Mingyang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/">
+</a> -->
+<!-- <a href="https://www.instagram.com/">
   <img align="left" alt="Mingyang Wu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/">
+</a> -->
+<!-- <a href="https://www.reddit.com/">
   <img align="left" alt="Mingyang's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-
-<a href="">
+</a> -->
+<!-- <a href="">
   <img align="left" alt="Mingyang's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+</a> -->
 
+<br />
 <br />
 
 **Talking about Personal Stuffs:**
