@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.cn/incareer/in/ACoAAD7DeTEBq3nFfTfDK9v-iY1ep4FqA4TmSGc">
+<!-- <a href="https://www.linkedin.cn/incareer/in/ACoAAD7DeTEBq3nFfTfDK9v-iY1ep4FqA4TmSGc">
   <img align="left" alt="Mingyang Wu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> -->
 
 <!-- <a href="">
   <img align="left" alt="Mingyang Wu's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/googlescholar.svg" />
