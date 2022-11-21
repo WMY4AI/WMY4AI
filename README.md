@@ -31,9 +31,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently an Undergraduate (Senior) and my major is computer science.
-- 🌱 I’m currently learning and implementing some projects using Python (PyTorch).
+- 🔭 I’m currently an Senior year undergraduate, computer science.
+- 🌱 I’m currently learning and implementing some projects using Python ([PyTorch](https://pytorch.org/tutorials/), Tensorflow).
 - 🧑‍💻 Research area : deep learning, Computer vision.
 - 📫 How to reach me: <a href="mingyangwu.cn@gmail.com">mingyangwu.cn@gmail.com</a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 
+<!-- - 😄 Pronouns: He/His
+- ⚡ Fun fact:  -->
