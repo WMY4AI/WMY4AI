@@ -34,6 +34,6 @@
 - 🔭 I’m currently an Senior year undergraduate, computer science.
 - 🌱 I’m currently learning and implementing some projects using Python ([PyTorch](https://pytorch.org/tutorials/), Tensorflow).
 - 🧑‍💻 Research area : deep learning, Computer vision.
-- 📫 How to reach me: <a href="mingyangwu.cn@gmail.com">mingyangwu.cn@gmail.com</a>
+- 📫 How to reach me: <a href="WMY2023FALL@163.com">mingyangwu.cn@gmail.com</a>
 <!-- - 😄 Pronouns: He/His
 - ⚡ Fun fact:  -->
