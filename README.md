@@ -3,7 +3,7 @@
 <a href="https://www.zhihu.com/people/wmy-77-89">
   <img align="left" alt="Mingyang Wu's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />
 </a>
-<a href="mingyangup.top">
+<a href="https://www.mingyangup.top">
   <img align="left" alt="Mingyang Wu's Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
 </a>
 <!-- <a href="https://www.linkedin.cn/incareer/in/ACoAAD7DeTEBq3nFfTfDK9v-iY1ep4FqA4TmSGc">
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-**Talking about [Personal Stuffs](mingyangwu.me):**
+**Talking about [Personal Stuffs](http://mingyangwu.me/):**
 
 - 🔭 I’m currently an Senior year undergraduate, computer science.
 - 🌱 I’m currently learning and implementing some projects using Python ([PyTorch](https://pytorch.org/tutorials/), Tensorflow).
