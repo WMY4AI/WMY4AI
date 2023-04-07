@@ -3,7 +3,7 @@
 <a href="https://www.zhihu.com/people/wmy-77-89">
   <img align="left" alt="Mingyang Wu's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />
 </a>
-<a href="">
+<a href="mingyangup.top">
   <img align="left" alt="Mingyang Wu's Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
 </a>
 <!-- <a href="https://www.linkedin.cn/incareer/in/ACoAAD7DeTEBq3nFfTfDK9v-iY1ep4FqA4TmSGc">
