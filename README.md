@@ -32,9 +32,9 @@
 <br />
 <br />
 
-**Talking about [Personal Stuffs](http://mingyangwu.me/):**
+**Talking about Personal Stuffs:**÷
 
 - 🔭 I’m currently a 4-year undergraduate, computer science.
 - 🌱 I’m currently implementing some projects using PyTorch.
-- 🧑‍💻 Research area : Deep Learning, Computer Vision.
+- 🧑‍💻 Research areas : Deep Learning, Computer Vision.
 - 📫 How to reach me: <a href="WMY2AI@163.com">WMY2AI@163.com</a>
