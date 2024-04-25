@@ -32,7 +32,7 @@
 <br />
 <br />
 
-**Talking about Personal Stuffs:**÷
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently a 4-year undergraduate, computer science.
 - 🌱 I’m currently implementing some projects using PyTorch.
