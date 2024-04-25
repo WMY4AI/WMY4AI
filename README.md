@@ -3,9 +3,9 @@
 <a href="https://www.zhihu.com/people/WMY4AI/posts">
   <img align="left" alt="Mingyang Wu's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zhihu.svg" />
 </a>
-<a href="https://mingyangwu.notion.site/mingyangwu/Mingyang-Wu-ef040699379a4eba875f5e1d72deb2ce">
+<!-- <a href="">
   <img align="left" alt="Mingyang Wu's Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.linkedin.cn/incareer/in/ACoAAD7DeTEBq3nFfTfDK9v-iY1ep4FqA4TmSGc">
   <img align="left" alt="Mingyang Wu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> -->
